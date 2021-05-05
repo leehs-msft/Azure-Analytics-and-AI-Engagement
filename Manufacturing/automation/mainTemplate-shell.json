@@ -1990,7 +1990,7 @@
             "name":"[variables('manufacturing_poc_ase_name')]"
          },
          "sku":{
-            "name":"S1"
+            "name":"B1"
          }
       },
       {
@@ -2094,7 +2094,7 @@
             "name":"[variables('wideworldimporters_ase_name')]"
          },
          "sku":{
-            "name":"S1"
+            "name":"B1"
          }
       },
       {
@@ -2198,7 +2198,7 @@
             "name":"[variables('car_telemetry_ase_name')]"
          },
          "sku":{
-            "name":"S1"
+            "name":"B1"
          }
       },
       {
@@ -2302,7 +2302,7 @@
             "name":"[variables('sendtohub_telemetry_ase_name')]"
          },
          "sku":{
-            "name":"S1"
+            "name":"B1"
          }
       },
       {
@@ -2406,7 +2406,7 @@
             "name":"[variables('sku2_telemetry_ase_name')]"
          },
          "sku":{
-            "name":"S1"
+            "name":"B1"
          }
       },
       {
@@ -2510,7 +2510,7 @@
             "name":"[variables('data_gen_telemetry_ase_name')]"
          },
          "sku":{
-            "name":"S1"
+            "name":"B1"
          }
       },
       {
