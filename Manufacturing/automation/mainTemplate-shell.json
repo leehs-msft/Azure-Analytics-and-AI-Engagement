@@ -2697,7 +2697,7 @@
          "name":"[variables('text_translation_service_name')]",
          "location":"[variables('location')]",
          "sku":{
-            "name":"S1"
+            "name":"S0"
          },
          "kind":"TextTranslation",
          "properties":{
